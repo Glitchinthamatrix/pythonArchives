@@ -1,0 +1,2 @@
+overfitting: it's when the model fits the training data so much that it's useless for any other data 
+underfitting: when a model is unable to find the relationship between input an doutput variables accurately 
